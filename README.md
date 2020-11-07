@@ -2,8 +2,8 @@
 
 Using <https://www.thecocktaildb.com/>, currently a landing page that grabs 100 alcoholic drinks and displays 30 of them along with name, image, and ID.
 
-![desktop screenshot](/desktop-screenshot.jpg)
-![mobile screenshot](/mobile-screenshot.jpg)
+![desktop screenshot](desktop-screenshot.JPG)
+![mobile screenshot](mobile-screenshot.JPG)
 
 TODO:
 
