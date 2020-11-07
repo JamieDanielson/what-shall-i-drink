@@ -11,9 +11,3 @@ TODO:
 * Add search by name
 * Add search by ingredient
 * Consider supporting through Patreon to get popular, latest, 10 random, etc. to add to it and/or have as main landing
-
-<style>
-  img:last-child {
-    border-radius:50px
-  }
-</style>
